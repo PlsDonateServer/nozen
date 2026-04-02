@@ -776,7 +776,7 @@ footer {
       <div class="cards-row">
 
         <!-- Green Card -->
-        <a class="card" href="/green">
+        <a class="card" href="green.html">
           <div class="card-banner">
             <img src="https://codsrlkbsq8hynia.public.blob.vercel-storage.com/vid%208%20%2B%2015c%20final.webp" alt="Green" loading="lazy"/>
             <span class="badge badge-amber">Most Popular</span>
@@ -817,7 +817,7 @@ footer {
         </a>
 
         <!-- Aim Card -->
-        <a class="card" href="/aim">
+        <a class="card" href="aim.html">
           <div class="card-banner">
             <div class="card-gradient-bg"></div>
           </div>
@@ -856,7 +856,7 @@ footer {
         </a>
 
         <!-- 5v5 Coming Soon -->
-        <div class="card" style="cursor:default;">
+        <div class="card" style="cursor:pointer;" onclick="window.open('https://discord.gg/aqsMWSQswd','_blank')">
           <div class="card-banner">
             <div class="card-gradient-bg"></div>
             <span class="badge badge-coming-soon">Coming Soon</span>
@@ -1199,7 +1199,7 @@ footer {
       <div>
         <span class="footer-column-title">Company</span>
         <a class="footer-link" href="/team">Team</a>
-        <a class="footer-link" href="mailto:contact@yew.gg">Contact</a>
+        <a class="footer-link" href="/cdn-cgi/l/email-protection#1b7874756f7a786f5b627e6c357c7c">Contact</a>
       </div>
       <div>
         <span class="footer-column-title">Legal</span>
@@ -1219,7 +1219,7 @@ footer {
   </div>
 </footer>
 
-<script>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>
   // Search
   function handleSearch(e) {
     e.preventDefault();
@@ -1244,12 +1244,4 @@ footer {
       var progress = Math.min((ts - startTime) / duration, 1);
       var val = Math.floor(start + (target - start) * easeOut(progress));
       el.textContent = val.toLocaleString();
-      if (progress < 1) requestAnimationFrame(animate);
-      else el.textContent = target.toLocaleString();
-    }
-    requestAnimationFrame(animate);
-  })();
-</script>
-
-</body>
-</html>
+      if (progress < 1) requestAnimationF
