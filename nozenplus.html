@@ -11,8 +11,8 @@
 <link href="https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@400;500;600;700;800&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,300&family=DM+Serif+Display:ital@0;1&display=swap" rel="stylesheet"/>
 <style>
 *,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
-html{scroll-behavior:smooth}
-body{
+html{scroll-behavior:smooth;overflow-x:hidden}
+body{overflow-x:hidden;
   font-family:'DM Sans',-apple-system,BlinkMacSystemFont,sans-serif;
   background:#ffffff;color:#111827;
   font-size:15px;line-height:1.6;
@@ -680,15 +680,15 @@ details summary { transition: color .18s ease }
   .rating-row{margin:16px 0 20px}
 }
 @media(max-width:600px){
-  .hero-wrap{padding:14px 14px 0;display:flex;flex-direction:column}
+  .hero-wrap{padding:14px 14px 0;display:flex;flex-direction:column;align-items:flex-start}
   .hero-wrap > div:first-child{display:contents}
-  .eyebrow-pill{order:1;margin-bottom:12px;padding:5px 12px;font-size:10.5px}
-  .hero-vis{order:2;padding-bottom:16px}
-  .hero-h1{order:3;font-size:26px;margin-bottom:10px}
-  .hero-p{order:4;font-size:14px;line-height:1.5;margin-bottom:12px}
-  .price-row{order:5;margin-bottom:12px}
+  .eyebrow-pill{order:1;margin-bottom:12px;padding:5px 12px;font-size:10.5px;align-self:flex-start}
+  .hero-vis{order:2;padding-bottom:16px;width:100%}
+  .hero-h1{order:3;font-size:26px;margin-bottom:10px;text-align:left}
+  .hero-p{order:4;font-size:14px;line-height:1.5;margin-bottom:12px;text-align:left;max-width:100%}
+  .price-row{order:5;margin-bottom:12px;justify-content:flex-start}
   .btn-primary{order:6;padding:10px 20px;font-size:13px;width:100%;max-width:100%;justify-content:center}
-  .trust-row{order:7;gap:8px;margin-top:10px;font-size:12px}
+  .trust-row{order:7;gap:8px;margin-top:10px;font-size:12px;justify-content:flex-start}
   .price-now{font-size:28px}
   .float-card{padding:6px 10px;font-size:11px;gap:6px}
   .float-card strong{font-size:11px}
