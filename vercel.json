@@ -6,11 +6,6 @@
       "permanent": false
     },
     {
-      "source": "/private/ininim",
-      "destination": "https://drive.google.com/file/d/1kXW3CG0QMq42kQrO3irJOVLMXL4dJdZZ/view?usp=drive_link",
-      "permanent": false
-    },
-    {
       "source": "/private/defense",
       "destination": "https://drive.google.com/file/d/14-rWlnP3FbXQsrdifkslw5W3VbEEx7ad/view?usp=drive_link",
       "permanent": false
