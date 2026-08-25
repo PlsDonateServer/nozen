@@ -1,7 +1,4 @@
 {
-  "cleanUrls": true
-}
-{
   "redirects": [
     {
       "source": "/private/autogreen",
