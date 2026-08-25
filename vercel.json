@@ -9,6 +9,36 @@
       "source": "/private/ininim",
       "destination": "https://drive.google.com/file/d/1kXW3CG0QMq42kQrO3irJOVLMXL4dJdZZ/view?usp=drive_link",
       "permanent": false
+    },
+    {
+      "source": "/private/defense",
+      "destination": "https://drive.google.com/file/d/14-rWlnP3FbXQsrdifkslw5W3VbEEx7ad/view?usp=drive_link",
+      "permanent": false
+    },
+    {
+      "source": "/private/dribble",
+      "destination": "https://drive.google.com/file/d/1NBLH8fzJrV0wqGLN_PSXf2rnPAlzTZ0E/view?usp=drive_link",
+      "permanent": false
+    },
+    {
+      "source": "/private/ghost",
+      "destination": "https://drive.google.com/file/d/1ZUVsRW8OJkwfhIoSCjv23igL3De6E1je/view?usp=drive_link",
+      "permanent": false
+    },
+    {
+      "source": "/private/jumpshot",
+      "destination": "https://drive.google.com/file/d/1y7lCzWhX8Suu03xZ3kw9YpSgNZM7mAiz/view?usp=drive_link",
+      "permanent": false
+    },
+    {
+      "source": "/private/nodip",
+      "destination": "https://drive.google.com/file/d/1pEk4IjQyIKpllY-y3ZyAos0nsqoKE65T/view?usp=drive_link",
+      "permanent": false
+    },
+    {
+      "source": "/private/nozen+",
+      "destination": "https://drive.google.com/file/d/1kXW3CG0QMq42kQrO3irJOVLMXL4dJdZZ/view?usp=drive_link",
+      "permanent": false
     }
   ],
   "cleanUrls": true
