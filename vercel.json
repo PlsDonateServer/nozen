@@ -6,9 +6,10 @@
       "permanent": false
     },
     {
-      "source": "/private/krystiandawid",
+      "source": "/private/ininim",
       "destination": "https://drive.google.com/file/d/1kXW3CG0QMq42kQrO3irJOVLMXL4dJdZZ/view?usp=drive_link",
       "permanent": false
     }
-  ]
+  ],
+  "cleanUrls": true
 }
