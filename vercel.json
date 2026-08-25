@@ -1,3 +1,17 @@
 {
   "cleanUrls": true
 }
+{
+  "redirects": [
+    {
+      "source": "/private/autogreen",
+      "destination": "https://drive.google.com/file/d/1tI2ck0MshT_-rgIeILceTQ3_IOuGybCY/view?usp=drive_link",
+      "permanent": false
+    },
+    {
+      "source": "/private/krystiandawid",
+      "destination": "https://drive.google.com/file/d/1kXW3CG0QMq42kQrO3irJOVLMXL4dJdZZ/view?usp=drive_link",
+      "permanent": false
+    }
+  ]
+}
