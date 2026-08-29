@@ -2,37 +2,37 @@
   "redirects": [
     {
       "source": "/private/autogreen",
-      "destination": "https://drive.google.com/file/d/1tI2ck0MshT_-rgIeILceTQ3_IOuGybCY/view?usp=drive_link",
+      "destination": "https://drive.google.com/drive/folders/1CYxnIYXudAQBz_mP1J7F1zThYDEHGih9?usp=drive_link",
       "permanent": false
     },
     {
       "source": "/private/defense",
-      "destination": "https://drive.google.com/file/d/14-rWlnP3FbXQsrdifkslw5W3VbEEx7ad/view?usp=drive_link",
+      "destination": "https://drive.google.com/drive/folders/1Mt9wFNmDZdVcJ3ltW5V_nRAZsd9trtQV?usp=drive_link",
       "permanent": false
     },
     {
       "source": "/private/dribble",
-      "destination": "https://drive.google.com/file/d/1NBLH8fzJrV0wqGLN_PSXf2rnPAlzTZ0E/view?usp=drive_link",
+      "destination": "https://drive.google.com/drive/folders/17mMNxjBOVo4S9-cQHHFZDYPW1XylmLVT?usp=drive_link",
       "permanent": false
     },
     {
       "source": "/private/ghost",
-      "destination": "https://drive.google.com/file/d/1ZUVsRW8OJkwfhIoSCjv23igL3De6E1je/view?usp=drive_link",
+      "destination": "https://drive.google.com/drive/folders/1CWYNiWOgPZvubtB7oNqj8yIQ4xLnWg2R?usp=drive_link",
       "permanent": false
     },
     {
       "source": "/private/jumpshot",
-      "destination": "https://drive.google.com/file/d/1y7lCzWhX8Suu03xZ3kw9YpSgNZM7mAiz/view?usp=drive_link",
+      "destination": "https://drive.google.com/drive/folders/1OB2qB0j4FIfg8EIta6kyBC4ZEgc6gyc6?usp=drive_link",
       "permanent": false
     },
     {
       "source": "/private/nodip",
-      "destination": "https://drive.google.com/file/d/1pEk4IjQyIKpllY-y3ZyAos0nsqoKE65T/view?usp=drive_link",
+      "destination": "https://drive.google.com/drive/folders/1CWYNiWOgPZvubtB7oNqj8yIQ4xLnWg2R?usp=drive_link",
       "permanent": false
     },
     {
       "source": "/private/nozenplus",
-      "destination": "https://drive.google.com/file/d/1kXW3CG0QMq42kQrO3irJOVLMXL4dJdZZ/view?usp=drive_link",
+      "destination": "https://drive.google.com/drive/folders/1vedKTGf3CaBzw00prhefVhNx4U7rvGGj?usp=drive_link",
       "permanent": false
     }
   ],
